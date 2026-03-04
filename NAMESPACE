@@ -1,0 +1,97 @@
+# Export all major functions | 导出所有主要函数
+# ==============================================================================
+
+# ==============================================================================
+# Sequence Generation Module (1.Gen_funs.r)
+# ==============================================================================
+export(DataGen_Mutation)
+export(DataGen_Stepwise)
+export(validate_fasta_input)
+export(validate_segments)
+export(process_direction)
+export(generate_sequence_name)
+export(export_fasta)
+export(run_examples)
+export(run_validation)
+
+# ==============================================================================
+# Dataset Construction Module (2.DatasetBuild.r)
+# ==============================================================================
+export(BuildProtGenesisDataset)
+export(ReduceDim)
+export(MetadataExtract)
+export(MetadataExtract_GFPVariants)
+export(MetadataExtract_TRIM21)
+export(MetadataExtract_TetR)
+export(ClusterFind)
+export(BuildTetRDataset)
+
+# ==============================================================================
+# Visualization Module (3.Visualization.r)
+# ==============================================================================
+export(StructuralMapVis)
+export(plot_mutation_positions)
+export(VisualizeDifferentialHeatmap)
+export(VisualizePositionBoxplots)
+export(VisualizeScatterplots)
+export(AssemblyDirectionMap)
+
+# ==============================================================================
+# Spatial Analysis Module (4.SpatialAnalysis.r)
+# ==============================================================================
+export(protein_analysis)
+export(calculate_dispersion)
+export(calculate_density)
+export(calculate_consecutive_distance)
+export(calculate_euclidean_distance)
+export(calculate_cluster_significance)
+export(validate_embedding)
+export(plot_protein_umap)
+export(plot_local_density)
+
+# ==============================================================================
+# Differential Embedding Module (5.DifferentialEmbeddingCal.r)
+# ==============================================================================
+export(CalculateDifferentialEmbedding)
+export(GetAminoAcidSequence)
+export(SeqToCellId)
+export(ExtractSequenceEmbeddingsSingle)
+export(GetEmbeddingData)
+export(SaveDifferentialEmbeddingResults)
+export(CalculateTSNEForDifferential)
+
+# ==============================================================================
+# Advanced Analysis Module (6.AdvancedAnalysis.r)
+# ==============================================================================
+export(read_embedding_data)
+export(classify_sequence)
+export(filter_category_data)
+export(extract_step_from_id)
+export(extract_poly_category)
+export(build_seurat_object)
+export(perform_dim_reduction)
+export(get_category_colors)
+export(generate_step_based_plots)
+export(generate_poly_category_plots)
+export(generate_3d_visualizations)
+export(generate_interactive_plot)
+export(analyze_dataset)
+export(analyze_all_datasets)
+
+# Import dependencies | 导入依赖项
+# ==============================================================================
+import(Seurat)
+import(Matrix)
+import(data.table)
+import(dplyr)
+import(stringr)
+import(ggplot2)
+import(plotly)
+import(htmlwidgets)
+import(Biostrings)
+import(proxy)
+import(cluster)
+import(umap)
+import(doParallel)
+import(methods)
+import(utils)
