@@ -57,12 +57,13 @@ ProtGenesis quantitatively describes deterministic biological processes of prote
 
 <br/>
 
-**Note:**
-1. The ProtGenesis framework is not limited to protein molecules; its stepwise assembly narrative for the "Genesis" process can be applied to DNA, RNA, and other biomolecules, to the chemical synthesis of macromolecular chimeras, and, in general, to any hierarchical assembly. It captures how simple, repetitive assembly rules give rise to emergent, systemic phenomena.  
-**ProtGenesis 思路并不局限于蛋白质分子**；其对“发生”过程的规律性（简单单元逐步组装）描述同样适用于 DNA、RNA 等生物分子发生过程，高分子嵌合物的化学合成，也适用于任何具有层级关系的基于简单单元和规则的组装过程（✨类似元胞自动机），能够描述简单重复规则如何涌现出系统性现象。
+##### **Note:**
+1. The ProtGenesis framework is not limited to protein molecules, but can be applied to all similar "genesis" processes in science; its stepwise assembly narrative for the "Genesis" process can be applied to DNA, RNA, and other biomolecules, to the chemical synthesis of macromolecular chimeras, and, in general, to any hierarchical assembly. It captures how simple, repetitive assembly rules give rise to emergent, systemic phenomena.  
+**ProtGenesis 思路并不局限于蛋白质分子，而适用于科学中所有相似的“发生”过程**；其对“发生”过程的规律性（简单单元逐步组装）描述同样适用于 DNA、RNA 等生物分子发生过程，高分子嵌合物的化学合成，也适用于任何具有层级关系的基于简单单元和规则的组装过程（✨类似元胞自动机），能够描述简单重复规则如何涌现出系统性现象。
 
 2. An interactive ProtGenesis analysis toolkit is on the way.  
-ProtGenesis 交互式分析工具正在开发中，很快会发布 .....
+**ProtGenesis 交互式分析工具正在开发中，很快会发布 .....**
+
 <br/>
 
 
