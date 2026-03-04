@@ -33,7 +33,7 @@ ProtGenesis article: https://www.biorxiv.org/content/10.64898/2026.02.20.706798v
 <img src="https://github.com/Travis13197/ProtGenesis/blob/main/images/log.jpg" width="100px">
 <br/>
 
-**ProtGenesis** is a unified computational framework that recasts protein genesis as a structured, deterministic navigation within a discrete structural space | **✨ProtGenesis 是基于R的蛋白质结构空间中Protein Genesis过程统一计算框架，将蛋白质发生这一个生物学过程重新定义为离散蛋白质结构空间内结构性的、确定性的探索过程。**
+**ProtGenesis** is a unified computational framework that recasts protein genesis as a structured, deterministic navigation within a discrete structural space | **✨ProtGenesis 是基于R的蛋白质结构空间中Protein Genesis过程统一计算方法论框架，将蛋白质发生这一个生物学过程重新定义为离散蛋白质结构空间内结构性的、确定性的探索过程。**
 
 This framework hypothesizes that **✨Protein structural space is not a stochastic continuum but a hierarchically organized physical system** | 该框架核心假设：**蛋白质结构空间不是随机的连续体，而是分层组织起来的、实在的物理系统，可被数学描述。**
 
@@ -47,13 +47,24 @@ ProtGenesis quantitatively describes deterministic biological processes of prote
 先AI编码，后数学解码，生物学过程的定性规律因此可被数学与物理定量描述为定律/方程。
 ```
 
-<br/>
 
 
-<img src="https://github.com/Travis13197/ProtGenesis/blob/main/images/Figure1.Pipeline2.png" width="660px">
+
+<img src="https://github.com/Travis13197/ProtGenesis/blob/main/images/Figure1.Pipeline2.png" width="700px">
 
   
+
+
 <br/>
+
+**Note:**
+1. The ProtGenesis framework is not limited to protein molecules; its stepwise assembly narrative for the "Genesis" process can be applied to DNA, RNA, and other biomolecules, to the chemical synthesis of macromolecular chimeras, and, in general, to any hierarchical assembly. It captures how simple, repetitive assembly rules give rise to emergent, systemic phenomena.  
+**ProtGenesis 思路并不局限于蛋白质分子**；其对“发生”过程的规律性（简单单元逐步组装）描述同样适用于 DNA、RNA 等生物分子发生过程，高分子嵌合物的化学合成，也适用于任何具有层级关系的基于简单单元和规则的组装过程（✨类似元胞自动机），能够描述简单重复规则如何涌现出系统性现象。
+
+2. An interactive ProtGenesis analysis toolkit is on the way.  
+ProtGenesis 交互式分析工具正在开发中，很快会发布 .....
+<br/>
+
 
 ### 1.2 Key Features
 
@@ -804,7 +815,7 @@ BioRxiv. https://doi.org/10.64898/2026.02.20.706798
 
 ### Corresponding Paper Abstract
 
-This framework introduces a unified methodological framework ProtGenesis that recasts genesis of protein as a structured, deterministic navigation within a discrete structural space | 该框架引入统一的方法学框架 ProtGenesis，将蛋白质起源重新定义为离散结构空间内有结构的、确定性导航。
+This framework introduces a unified methodological framework ProtGenesis that recasts genesis of protein as a structured, deterministic navigation within a discrete structural space | 该框架引入统一的方法学框架 ProtGenesis，将蛋白质发生起源（Protein Genesis）过程重新定义为在离散蛋白质结构空间内结构性的、确定性的探索过程。
 
 ProtGenesis identifies three universal principles governing this hierarchical organization: the Assembly Principle directs amino acids condensation into multilayer fractal-like architectures; the Emergence Principle ensures nascent peptides’ emergence follow deterministic spatial trajectories; and the Phase-Transition Principle describes wherein incremental residue accrual or mutations drives precise topological phase shifts from short-range to long-range order | ProtGenesis 揭示支配这种层级组织的三大普适原理：组装原理指导氨基酸缩合形成多层分形结构；涌现原理确保新生肽段沿确定性空间轨迹出现；相变原理阐明残基逐步累积或突变如何驱动从短程到长程有序的精确拓扑相移。
 
