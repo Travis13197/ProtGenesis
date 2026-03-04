@@ -33,18 +33,18 @@ ProtGenesis article: https://www.biorxiv.org/content/10.64898/2026.02.20.706798v
 <img src="https://github.com/Travis13197/ProtGenesis/blob/main/images/log.jpg" width="100px">
 <br/>
 
-**ProtGenesis** is a unified computational framework that recasts protein genesis as a structured, deterministic navigation within a discrete structural space | **✨ProtGenesis 是对蛋白质结构空间中进行数学描述与统计分析的统一计算方法论框架，ProtGenesis将“蛋白质逐步发生的全过程（Protein Genesis）”这一个生物学过程重新定义为离散蛋白质结构空间内结构性的、确定性的空间探索过程。**
+**ProtGenesis** is a unified computational framework that recasts protein genesis as a structured, deterministic navigation within a discrete structural space | **✨ProtGenesis 是对蛋白质结构空间中蛋白质发生过程进行数学描述与统计分析的统一计算方法论框架**，ProtGenesis将“蛋白质逐步发生的全过程（Protein Genesis）”这一个生物学过程重新定义为离散蛋白质结构空间内结构性的、确定性的空间探索过程。**
 
-This framework hypothesizes that **✨Protein structural space is not a stochastic continuum but a hierarchically organized physical system** | 该框架核心假设：**蛋白质结构空间不是随机的连续体，而是分层组织起来的、实在的物理系统，可被数学描述。**
+This framework hypothesizes that **✨Protein structural space is not a stochastic continuum but a hierarchically organized physical system** | 该框架核心假设：**蛋白质结构空间不是随机的连续体，而是分层组织起来的、实在的物理系统，可被数学所描述。**
 
 ProtGenesis quantitatively describes deterministic biological processes of protein genesis including amino acid assembly, translation and folding processes, and evolutionary adaptation | ProtGenesis 可定量描述蛋白质发生起源的确定性生物学过程，包括氨基酸组装、翻译和折叠过程以及进化适应。
 
 <br/>
 
 ```
-🚀 Encoding and decoding, then, we can use the Mathematics&Physics to understrand biology.
+🚀 Encoding and decoding, then, we can use the Mathematics&Physics to understand biology.
 
-先AI编码，后数学解码，生物学过程的定性规律因此可被数学与物理定量描述为定律/方程。
+先AI编码，后数学解码，生物学过程的 “定性规律” 因此可被数学&物理描述为定量的 “定律与方程” 。
 ```
 
 
