@@ -33,18 +33,18 @@ ProtGenesis article: https://www.biorxiv.org/content/10.64898/2026.02.20.706798v
 <img src="https://github.com/Travis13197/ProtGenesis/blob/main/images/log.jpg" width="100px">
 <br/>
 
-**ProtGenesis** is a unified computational framework that recasts protein genesis as a structured, deterministic navigation within a discrete structural space | **✨ProtGenesis 是对蛋白质结构空间中进行数学描述与统计分析的统一计算方法论框架，ProtGenesis将“蛋白质逐步发生的全过程（Protein Genesis）”这一个生物学过程重新定义为离散蛋白质结构空间内结构性的、确定性的空间探索过程。**
+**ProtGenesis** is a unified computational framework that recasts protein genesis as a structured, deterministic navigation within a discrete structural space | **✨ProtGenesis 是对蛋白质结构空间中蛋白质发生过程进行数学描述与统计分析的统一计算方法论框架**，ProtGenesis将“蛋白质逐步发生的全过程（Protein Genesis）”这一个生物学过程重新定义为离散蛋白质结构空间内结构性的、确定性的空间探索过程。**
 
-This framework hypothesizes that **✨Protein structural space is not a stochastic continuum but a hierarchically organized physical system** | 该框架核心假设：**蛋白质结构空间不是随机的连续体，而是分层组织起来的、实在的物理系统，可被数学描述。**
+This framework hypothesizes that **✨Protein structural space is not a stochastic continuum but a hierarchically organized physical system** | 该框架核心假设：**蛋白质结构空间不是随机的连续体，而是分层组织起来的、实在的物理系统，可被数学所描述。**
 
 ProtGenesis quantitatively describes deterministic biological processes of protein genesis including amino acid assembly, translation and folding processes, and evolutionary adaptation | ProtGenesis 可定量描述蛋白质发生起源的确定性生物学过程，包括氨基酸组装、翻译和折叠过程以及进化适应。
 
 <br/>
 
 ```
-🚀 Encoding and decoding, then, we can use the Mathematics&Physics to understrand biology.
+🚀 Encoding and decoding, then, we can use the Mathematics&Physics to understand biology.
 
-先AI编码，后数学解码，生物学过程的定性规律因此可被数学与物理定量描述为定律/方程。
+先AI编码，后数学解码，生物学过程的 “定性规律” 因此可被数学&物理描述为定量的 “定律与方程” 。
 ```
 
 
@@ -57,12 +57,13 @@ ProtGenesis quantitatively describes deterministic biological processes of prote
 
 <br/>
 
-**Note:**
-1. The ProtGenesis framework is not limited to protein molecules; its stepwise assembly narrative for the "Genesis" process can be applied to DNA, RNA, and other biomolecules, to the chemical synthesis of macromolecular chimeras, and, in general, to any hierarchical assembly. It captures how simple, repetitive assembly rules give rise to emergent, systemic phenomena.  
-**ProtGenesis 思路并不局限于蛋白质分子**；其对“发生”过程的规律性（简单单元逐步组装）描述同样适用于 DNA、RNA 等生物分子发生过程，高分子嵌合物的化学合成，也适用于任何具有层级关系的基于简单单元和规则的组装过程（✨类似元胞自动机），能够描述简单重复规则如何涌现出系统性现象。
+##### **Note:**
+1. The ProtGenesis framework is not limited to protein molecules, but can be applied to all similar "genesis" processes in science; its stepwise assembly narrative for the "Genesis" process can be applied to DNA, RNA, and other biomolecules, to the chemical synthesis of macromolecular chimeras, and, in general, to any hierarchical assembly. It captures how simple, repetitive assembly rules give rise to emergent, systemic phenomena.  
+**ProtGenesis 思路并不局限于蛋白质分子，而适用于科学中所有相似的“发生”过程**；其对“发生”过程的规律性（简单单元逐步组装）描述同样适用于 DNA、RNA 等生物分子发生过程，高分子嵌合物的化学合成，也适用于任何具有层级关系的基于简单单元和规则的组装过程（✨类似元胞自动机），能够描述简单重复规则如何涌现出系统性现象。
 
 2. An interactive ProtGenesis analysis toolkit is on the way.  
-ProtGenesis 交互式分析工具正在开发中，很快会发布 .....
+**ProtGenesis 交互式分析工具正在开发中，很快会发布 .....**
+
 <br/>
 
 
@@ -118,7 +119,7 @@ Based on the ProtGenesis paper (Liu et al., 2026), this framework uncovers three
 install.packages("devtools")
 
 # Install ProtGenesis from GitHub
-devtools::install_github("Travis131/ProtGenesis")
+devtools::install_github("Travis13197/ProtGenesis")
 ```
 
 ### 2.2 Local Installation
@@ -208,7 +209,7 @@ We provide custom Jupyter notebooks for embedding extraction. These notebooks ca
 | `ProstT5_embedding_extract.ipynb` | Extract ProstT5 embeddings from protein sequences | 提取 ProstT5 嵌入 |
 | `ProtT5_embedding_extract.ipynb` | Extract ProtT5 embeddings from protein sequences | 提取 ProtT5 嵌入 |
 
-✨ ✨ For detailed ProtGenesis workflow scripts for principle discovery and protein engineering applications, please refer to the scripts in the Travis131/ProtGenesis_Workflow directory. | ✨ ✨ 具体的 ProtGenesis 规律发现与工程应用的 Workflow 请参考：Travis131/ProtGenesis_Workflow 目录下的脚本文件
+✨ ✨ For detailed ProtGenesis workflow scripts for principle discovery and protein engineering applications, please refer to the scripts in the Travis13197/ProtGenesis_Workflow directory. | ✨ ✨ 具体的 ProtGenesis 规律发现与工程应用的 Workflow 请参考：Travis131/ProtGenesis_Workflow 目录下的脚本文件
 
 ### 3.2 Three Novel Metrics
 
@@ -815,11 +816,11 @@ BioRxiv. https://doi.org/10.64898/2026.02.20.706798
 
 ### Corresponding Paper Abstract
 
-This framework introduces a unified methodological framework ProtGenesis that recasts genesis of protein as a structured, deterministic navigation within a discrete structural space | 该框架引入统一的方法学框架 ProtGenesis，将蛋白质发生起源（Protein Genesis）过程重新定义为在离散蛋白质结构空间内结构性的、确定性的探索过程。
+This Article introduces a unified methodological framework ProtGenesis that recasts genesis of protein as a structured, deterministic navigation within a discrete structural space | 论文引入了一种统一的蛋白质结构空间的计算方法论框架 ProtGenesis，将蛋白质发生起源（Protein Genesis）过程重新定义为在离散蛋白质结构空间内结构性的、确定性的探索过程。
 
-ProtGenesis identifies three universal principles governing this hierarchical organization: the Assembly Principle directs amino acids condensation into multilayer fractal-like architectures; the Emergence Principle ensures nascent peptides’ emergence follow deterministic spatial trajectories; and the Phase-Transition Principle describes wherein incremental residue accrual or mutations drives precise topological phase shifts from short-range to long-range order | ProtGenesis 揭示支配这种层级组织的三大普适原理：组装原理指导氨基酸缩合形成多层分形结构；涌现原理确保新生肽段沿确定性空间轨迹出现；相变原理阐明残基逐步累积或突变如何驱动从短程到长程有序的精确拓扑相移。
+ProtGenesis identifies three universal principles governing this hierarchical organization: the Assembly Principle directs amino acids condensation into multilayer fractal-like architectures; the Emergence Principle ensures nascent peptides’ emergence follow deterministic spatial trajectories; and the Phase-Transition Principle describes wherein incremental residue accrual or mutations drives precise topological phase shifts from short-range to long-range order | ProtGenesis 揭示支配这种层级组织的三大普适原理：**组装原理（原理I）** 指导氨基酸缩合形成多层分形结构；**涌现原理（原理II）** 确保新生肽段沿确定性空间轨迹出现；**相变原理（原理III）** 阐明残基逐步累积或突变如何驱动从短程到长程有序的精确拓扑相移。
 
-By quantifying these trajectories with novel tripartite spatial metrics, ProtGenesis provides an universal interpretable mathematical foundation for decoding “black-box” of deep learning models and establishes a rigorous basis for exploring, understanding, and engineering the molecular blueprint of life | 凭借三项新型空间指标对这些轨迹进行量化，ProtGenesis 为解码深度学习模型的“黑箱”提供了可解释的普适数学基础，并为探索、理解和工程化生命的分子蓝图奠定了严谨根基。
+By quantifying these trajectories with novel tripartite spatial metrics, ProtGenesis provides an universal interpretable mathematical foundation for decoding “black-box” of deep learning models and establishes a rigorous basis for exploring, understanding, and engineering the molecular blueprint of life | 提出三项新型蛋白质结构空间指标对这些生成过程进行数学量化，**ProtGenesis 为解码深度学习模型的“黑箱”提供了可解释的普适数学基础**，并为探索、理解和工程化生命的分子蓝图奠定了严谨根基。
 
 ===============================================================================
 
