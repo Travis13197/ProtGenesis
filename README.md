@@ -44,7 +44,7 @@ ProtGenesis quantitatively describes deterministic biological processes of prote
 ```
 🚀 Encoding and decoding, then, we can use the Mathematics&Physics to understrand biology.
 
-先AI编码后数学解码，生物学过程的定性规律，因此可被数学与物理定量描述为定律/方程。
+先AI编码，后数学解码，生物学过程的定性规律因此可被数学与物理定量描述为定律/方程。
 ```
 
 <br/>
@@ -66,8 +66,9 @@ ProtGenesis quantitatively describes deterministic biological processes of prote
 | **Four-tiered Protein Genesis Framework** | Models protein genesis from amino acids to full architectures | ✨四层框架：从 **氨基酸逐步扰动组装成为完整功能蛋白质结构**建模（包含数据集生成到完整分析与可视化过程） |
 
 <br/>
-  
- 
+
+<details>
+<summary> 1.3 Core Scientific Principles </summary>
 
 ### 1.3 Core Scientific Principles
 
@@ -85,7 +86,9 @@ Based on the ProtGenesis paper (Liu et al., 2026), this framework uncovers three
 
   
 
+</details>
 <br/>
+
 
 ===============================================================================
 
