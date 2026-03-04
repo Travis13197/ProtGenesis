@@ -1,3 +1,3 @@
 # ProtGenesis
 
-Comming soon ...
+ProtGenesis R package
