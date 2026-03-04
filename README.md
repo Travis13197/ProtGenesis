@@ -816,11 +816,11 @@ BioRxiv. https://doi.org/10.64898/2026.02.20.706798
 
 ### Corresponding Paper Abstract
 
-This framework introduces a unified methodological framework ProtGenesis that recasts genesis of protein as a structured, deterministic navigation within a discrete structural space | 该框架引入统一的方法学框架 ProtGenesis，将蛋白质发生起源（Protein Genesis）过程重新定义为在离散蛋白质结构空间内结构性的、确定性的探索过程。
+This Article introduces a unified methodological framework ProtGenesis that recasts genesis of protein as a structured, deterministic navigation within a discrete structural space | 论文引入了一种统一的蛋白质结构空间的计算方法论框架 ProtGenesis，将蛋白质发生起源（Protein Genesis）过程重新定义为在离散蛋白质结构空间内结构性的、确定性的探索过程。
 
-ProtGenesis identifies three universal principles governing this hierarchical organization: the Assembly Principle directs amino acids condensation into multilayer fractal-like architectures; the Emergence Principle ensures nascent peptides’ emergence follow deterministic spatial trajectories; and the Phase-Transition Principle describes wherein incremental residue accrual or mutations drives precise topological phase shifts from short-range to long-range order | ProtGenesis 揭示支配这种层级组织的三大普适原理：组装原理指导氨基酸缩合形成多层分形结构；涌现原理确保新生肽段沿确定性空间轨迹出现；相变原理阐明残基逐步累积或突变如何驱动从短程到长程有序的精确拓扑相移。
+ProtGenesis identifies three universal principles governing this hierarchical organization: the Assembly Principle directs amino acids condensation into multilayer fractal-like architectures; the Emergence Principle ensures nascent peptides’ emergence follow deterministic spatial trajectories; and the Phase-Transition Principle describes wherein incremental residue accrual or mutations drives precise topological phase shifts from short-range to long-range order | ProtGenesis 揭示支配这种层级组织的三大普适原理：**组装原理（原理I）** 指导氨基酸缩合形成多层分形结构；**涌现原理（原理II）** 确保新生肽段沿确定性空间轨迹出现；**相变原理（原理III）** 阐明残基逐步累积或突变如何驱动从短程到长程有序的精确拓扑相移。
 
-By quantifying these trajectories with novel tripartite spatial metrics, ProtGenesis provides an universal interpretable mathematical foundation for decoding “black-box” of deep learning models and establishes a rigorous basis for exploring, understanding, and engineering the molecular blueprint of life | 凭借三项新型空间指标对这些轨迹进行量化，ProtGenesis 为解码深度学习模型的“黑箱”提供了可解释的普适数学基础，并为探索、理解和工程化生命的分子蓝图奠定了严谨根基。
+By quantifying these trajectories with novel tripartite spatial metrics, ProtGenesis provides an universal interpretable mathematical foundation for decoding “black-box” of deep learning models and establishes a rigorous basis for exploring, understanding, and engineering the molecular blueprint of life | 提出三项新型蛋白质结构空间指标对这些生成过程进行数学量化，**ProtGenesis 为解码深度学习模型的“黑箱”提供了可解释的普适数学基础**，并为探索、理解和工程化生命的分子蓝图奠定了严谨根基。
 
 ===============================================================================
 
