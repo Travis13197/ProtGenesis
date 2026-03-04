@@ -38,15 +38,16 @@ ProtGenesis quantitatively reflects deterministic biological processes of protei
 | Visualization Modes | Assembly direction map, Genesis path map, Status transition map | 三种ProtGenesis的可视化方式：组装方向图、起源路径图、状态转换图 |
 | Four-tiered Framework | Models protein genesis from amino acids to full architectures | 四层框架：从氨基酸到完整蛋白质结构建模（数据集生成到完整分析与可视化过程） |
 
+
 ### 1.3 Core Scientific Principles
 
-Based on the ProtGenesis paper (Liu et al., 2026), this framework uncovers three first principles | 基于 ProtGenesis 论文（Liu et al., 2026），该框架揭示了三个蛋白质生成的第一性原理及工程应用（具体请参考ProtGenesis文章）：
+Based on the ProtGenesis paper (Liu et al., 2026), this framework uncovers three first principles✨ | 基于 ProtGenesis 论文（Liu et al., 2026），该框架揭示了三个蛋白质生成的第一性原理及工程应用（具体请参考ProtGenesis文章）：
 
-1. **Principle I：Hierarchical short-range order governed by directional assembly** | 蛋白质生成过程受到方向性组装的分层短程有序控制 （氨基酸按照特定规律组装成为多肽）
+1. **✨Principle I：Hierarchical short-range order governed by directional assembly** | 蛋白质生成过程受到方向性组装的分层短程有序控制 （氨基酸按照特定规律组装成为多肽）
 
-2. **Principle II：Differential embedding analysis identifies critical sites for protein engineering** | 差分嵌入分析，经过数学统计关键转变点，能用于识别蛋白质工程的关键操作位点（如蛋白质工程中氨基酸替换、插入或删除的关键位点）
+2. **✨Principle II：Peptides’ emergence follow a deterministic spatial trajectories, differential embedding analysis identifies critical sites for protein engineering** | 蛋白质的Genesis过程可以描述为蛋白质结构空间中一个清晰、确定性的轨迹，对该轨迹进行空间特征统计分析，能用于识别蛋白质工程化改造的关键操作位点（如蛋白质工程中氨基酸替换、插入或删除的关键位点）
 
-3. **Principle III：Phase transition analysis enables principle-driven de novo protein design** | 相变分析实现原理驱动的全新蛋白质设计（类比生物分子的间断平衡进化过程，通过分析蛋白质结构空间中的突变点，实现基于第一性原理的全新蛋白质设计）
+3. **✨Principle III：Phase transition analysis enables principle-driven de novo protein design** | 蛋白质结构状态改变可描述为空间中的逐步累积、或者粗粒化的相变过程，相变分析能够实现原理驱动的全新蛋白质设计（类比生物分子的间断平衡进化过程，通过分析蛋白质结构空间中的突变点，实现基于第一性原理的全新蛋白质设计）
 
 
 
