@@ -118,7 +118,7 @@ Based on the ProtGenesis paper (Liu et al., 2026), this framework uncovers three
 install.packages("devtools")
 
 # Install ProtGenesis from GitHub
-devtools::install_github("Travis131/ProtGenesis")
+devtools::install_github("Travis13197/ProtGenesis")
 ```
 
 ### 2.2 Local Installation
@@ -208,7 +208,7 @@ We provide custom Jupyter notebooks for embedding extraction. These notebooks ca
 | `ProstT5_embedding_extract.ipynb` | Extract ProstT5 embeddings from protein sequences | 提取 ProstT5 嵌入 |
 | `ProtT5_embedding_extract.ipynb` | Extract ProtT5 embeddings from protein sequences | 提取 ProtT5 嵌入 |
 
-✨ ✨ For detailed ProtGenesis workflow scripts for principle discovery and protein engineering applications, please refer to the scripts in the Travis131/ProtGenesis_Workflow directory. | ✨ ✨ 具体的 ProtGenesis 规律发现与工程应用的 Workflow 请参考：Travis131/ProtGenesis_Workflow 目录下的脚本文件
+✨ ✨ For detailed ProtGenesis workflow scripts for principle discovery and protein engineering applications, please refer to the scripts in the Travis13197/ProtGenesis_Workflow directory. | ✨ ✨ 具体的 ProtGenesis 规律发现与工程应用的 Workflow 请参考：Travis131/ProtGenesis_Workflow 目录下的脚本文件
 
 ### 3.2 Three Novel Metrics
 
