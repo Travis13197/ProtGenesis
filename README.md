@@ -33,7 +33,7 @@ ProtGenesis article: https://www.biorxiv.org/content/10.64898/2026.02.20.706798v
 <img src="https://github.com/Travis13197/ProtGenesis/blob/main/images/log.jpg" width="100px">
 <br/>
 
-**ProtGenesis** is a unified computational framework that recasts protein genesis as a structured, deterministic navigation within a discrete structural space | **✨ProtGenesis 是基于R的蛋白质结构空间中Protein Genesis过程统一计算方法论框架，将蛋白质发生这一个生物学过程重新定义为离散蛋白质结构空间内结构性的、确定性的探索过程。**
+**ProtGenesis** is a unified computational framework that recasts protein genesis as a structured, deterministic navigation within a discrete structural space | **✨ProtGenesis 是对蛋白质结构空间中进行数学描述与统计分析的统一计算方法论框架，ProtGenesis将“蛋白质逐步发生的全过程（Protein Genesis）”这一个生物学过程重新定义为离散蛋白质结构空间内结构性的、确定性的空间探索过程。**
 
 This framework hypothesizes that **✨Protein structural space is not a stochastic continuum but a hierarchically organized physical system** | 该框架核心假设：**蛋白质结构空间不是随机的连续体，而是分层组织起来的、实在的物理系统，可被数学描述。**
 
